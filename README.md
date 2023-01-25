@@ -56,10 +56,9 @@
 - All test files will be in the [test](./test) directory.
 
 
-### Authors
+### Author
 
-- iAmG-r00t 👾
-- Michael Ndula [@Michaelndula](https://github.com/Michaelndula) 👨‍💻
+- akins-dev
 
 
 ## Tasks
